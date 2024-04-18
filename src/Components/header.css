@@ -39,7 +39,7 @@
 {
     /* background: linear-gradient(violet,aqua); */
     text-align: center;
-    background-color: white;
+    background-color:white;
 }
 .h
 {
@@ -51,15 +51,15 @@
 {
     height:50%;
     width:50%;
-    padding-top:0px;
 }
+
 .h p
 {
      
      font-size: 250%;
      font-weight: 700;
      font-family: Verdana, Geneva, Tahoma, sans-serif;
-     background:linear-gradient(violet,aqua); 
+     background:linear-gradient(violet,aqua);
      max-width: 100%;
 }
 .c
